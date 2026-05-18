@@ -1,0 +1,11 @@
+body{
+  background:black;
+  color:lime;
+  text-align:center;
+  font-family:Arial;
+}
+
+button{
+  padding:10px;
+  background:lime;
+}
